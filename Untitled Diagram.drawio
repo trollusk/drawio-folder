@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="sN9jX3mGukR6g5K6cpiM">
-    <mxGraphModel>
+    <mxGraphModel dx="715" dy="5055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="nzk6QbWAMJRpBoNzHcnD-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219" y="572" as="sourcePoint" />
+            <mxPoint x="219" y="-116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="nzk6QbWAMJRpBoNzHcnD-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219" y="572" as="sourcePoint" />
+            <mxPoint x="219" y="-116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="79" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-6" value="Te Rauparaha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontFamily=Annie Use Your Telescope;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnnie%2BUse%2BYour%2BTelescope;" vertex="1" parent="1">
+          <mxGeometry x="532" y="338" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-9" value="Tamihana Te Rauparaha convinces several iwi to form the Kīngitanga movement, so that a Maori monarch could deal with the Crown on an equal footing" style="text;whiteSpace=wrap;fontFamily=Annie Use Your Telescope;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnnie%2BUse%2BYour%2BTelescope;" vertex="1" parent="1">
+          <mxGeometry x="405.02" y="396.19" width="164.98" height="83.81" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-10" value="Tamihana Te Rauparaha convinces several iwi to form the Kīngitanga movement, so that a Maori monarch could deal with the Crown on an equal footing" style="text;whiteSpace=wrap;fontFamily=Covered By Your Grace;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCovered%2BBy%2BYour%2BGrace;" vertex="1" parent="1">
+          <mxGeometry x="661" y="376" width="164.98" height="83.81" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-11" value="Tamihana Te Rauparaha convinces several iwi to form the Kīngitanga movement, so that a Maori monarch could deal with the Crown on an equal footing" style="text;whiteSpace=wrap;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="573" y="485" width="172" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-12" value="Tamihana Te Rauparaha convinces several iwi to form the Kīngitanga movement, so that a Maori monarch could deal with the Crown on an equal footing" style="text;whiteSpace=wrap;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" vertex="1" parent="1">
+          <mxGeometry x="768" y="492" width="172" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nzk6QbWAMJRpBoNzHcnD-14" value="Tamihana Te Rauparaha convinces several iwi to form the Kīngitanga movement, so that a Maori monarch could deal with the Crown on an equal footing" style="text;whiteSpace=wrap;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" vertex="1" parent="1">
+          <mxGeometry x="353" y="505" width="172" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
